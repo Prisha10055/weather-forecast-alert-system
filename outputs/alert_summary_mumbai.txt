@@ -1,0 +1,24 @@
+============================================================
+WEATHER FORECAST & ALERT REPORT — MUMBAI
+Generated At : 2026-11-25 03:19:35
+Data Source  : Virtual Simulation (Offline JSON)
+============================================================
+
+[CURRENT WEATHER]
+  Condition   : Rain (Heavy Intensity Rain)
+  Temperature : 30.2°C (Feels like 36.8°C)
+  Humidity    : 88%
+  Wind Speed  : 9.5 m/s
+  Pressure    : 1006 hPa
+
+[FORECAST SUMMARY]
+  Min / Max Temp : 26.8°C / 30.5°C (Avg: 28.42°C)
+  Max Humidity   : 91%
+  Total Rainfall : 59.9 mm
+  Max Wind Speed : 12.8 m/s
+
+[ALERTS TRIGGERED]
+  1. [CRITICAL] RAIN_ALERT: Rain Alert: Expected cumulative rainfall of 59.9 mm (peak 3h slot: 24.0 mm). Carry rain gear and plan travel accordingly.
+  2. [INFO] HIGH_HUMIDITY: High Humidity Alert: Humidity reaches 91% (threshold: 80%). Expect muggy conditions.
+  3. [CRITICAL] STORM_WIND_ALERT: Wind/Storm Alert: Peak wind speed 12.8 m/s with thunderstorm activity. Secure loose outdoor items.
+============================================================

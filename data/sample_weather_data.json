@@ -1,0 +1,730 @@
+{
+  "Pune": {
+    "current": {
+      "name": "Pune",
+      "sys": {
+        "country": "IN"
+      },
+      "main": {
+        "temp": 31.4,
+        "feels_like": 33.1,
+        "humidity": 58,
+        "pressure": 1011
+      },
+      "wind": {
+        "speed": 4.2
+      },
+      "weather": [
+        {
+          "main": "Clouds",
+          "description": "scattered clouds"
+        }
+      ],
+      "rain": {
+        "1h": 0.0
+      }
+    },
+    "forecast": {
+      "list": [
+        {
+          "dt_txt": "2026-11-25 09:00:00",
+          "main": {
+            "temp": 29.5,
+            "humidity": 62
+          },
+          "wind": {
+            "speed": 3.8
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 12:00:00",
+          "main": {
+            "temp": 33.2,
+            "humidity": 50
+          },
+          "wind": {
+            "speed": 4.5
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "few clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 15:00:00",
+          "main": {
+            "temp": 34.8,
+            "humidity": 46
+          },
+          "wind": {
+            "speed": 5.1
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "scattered clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 18:00:00",
+          "main": {
+            "temp": 30.1,
+            "humidity": 65
+          },
+          "wind": {
+            "speed": 4.0
+          },
+          "weather": [
+            {
+              "main": "Rain",
+              "description": "light rain"
+            }
+          ],
+          "rain": {
+            "3h": 2.4
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 21:00:00",
+          "main": {
+            "temp": 26.4,
+            "humidity": 76
+          },
+          "wind": {
+            "speed": 3.2
+          },
+          "weather": [
+            {
+              "main": "Rain",
+              "description": "moderate rain"
+            }
+          ],
+          "rain": {
+            "3h": 6.2
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 00:00:00",
+          "main": {
+            "temp": 24.0,
+            "humidity": 82
+          },
+          "wind": {
+            "speed": 2.9
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "overcast clouds"
+            }
+          ],
+          "rain": {
+            "3h": 1.1
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 03:00:00",
+          "main": {
+            "temp": 22.8,
+            "humidity": 84
+          },
+          "wind": {
+            "speed": 2.5
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 06:00:00",
+          "main": {
+            "temp": 24.5,
+            "humidity": 75
+          },
+          "wind": {
+            "speed": 3.0
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        }
+      ]
+    }
+  },
+  "Mumbai": {
+    "current": {
+      "name": "Mumbai",
+      "sys": {
+        "country": "IN"
+      },
+      "main": {
+        "temp": 30.2,
+        "feels_like": 36.8,
+        "humidity": 88,
+        "pressure": 1006
+      },
+      "wind": {
+        "speed": 9.5
+      },
+      "weather": [
+        {
+          "main": "Rain",
+          "description": "heavy intensity rain"
+        }
+      ],
+      "rain": {
+        "1h": 14.5
+      }
+    },
+    "forecast": {
+      "list": [
+        {
+          "dt_txt": "2026-11-25 09:00:00",
+          "main": {
+            "temp": 29.8,
+            "humidity": 89
+          },
+          "wind": {
+            "speed": 10.2
+          },
+          "weather": [
+            {
+              "main": "Rain",
+              "description": "heavy intensity rain"
+            }
+          ],
+          "rain": {
+            "3h": 18.4
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 12:00:00",
+          "main": {
+            "temp": 30.5,
+            "humidity": 86
+          },
+          "wind": {
+            "speed": 12.8
+          },
+          "weather": [
+            {
+              "main": "Thunderstorm",
+              "description": "thunderstorm with heavy rain"
+            }
+          ],
+          "rain": {
+            "3h": 24.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 15:00:00",
+          "main": {
+            "temp": 29.2,
+            "humidity": 90
+          },
+          "wind": {
+            "speed": 11.4
+          },
+          "weather": [
+            {
+              "main": "Rain",
+              "description": "moderate rain"
+            }
+          ],
+          "rain": {
+            "3h": 12.5
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 18:00:00",
+          "main": {
+            "temp": 28.4,
+            "humidity": 91
+          },
+          "wind": {
+            "speed": 8.6
+          },
+          "weather": [
+            {
+              "main": "Rain",
+              "description": "light rain"
+            }
+          ],
+          "rain": {
+            "3h": 4.2
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 21:00:00",
+          "main": {
+            "temp": 27.6,
+            "humidity": 88
+          },
+          "wind": {
+            "speed": 7.1
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "overcast clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.8
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 00:00:00",
+          "main": {
+            "temp": 27.0,
+            "humidity": 85
+          },
+          "wind": {
+            "speed": 6.4
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "broken clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 03:00:00",
+          "main": {
+            "temp": 26.8,
+            "humidity": 84
+          },
+          "wind": {
+            "speed": 5.9
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "scattered clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 06:00:00",
+          "main": {
+            "temp": 28.1,
+            "humidity": 81
+          },
+          "wind": {
+            "speed": 6.2
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "few clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        }
+      ]
+    }
+  },
+  "Delhi": {
+    "current": {
+      "name": "Delhi",
+      "sys": {
+        "country": "IN"
+      },
+      "main": {
+        "temp": 41.6,
+        "feels_like": 44.2,
+        "humidity": 28,
+        "pressure": 1003
+      },
+      "wind": {
+        "speed": 6.1
+      },
+      "weather": [
+        {
+          "main": "Clear",
+          "description": "clear sky"
+        }
+      ],
+      "rain": {
+        "1h": 0.0
+      }
+    },
+    "forecast": {
+      "list": [
+        {
+          "dt_txt": "2026-11-25 09:00:00",
+          "main": {
+            "temp": 36.4,
+            "humidity": 35
+          },
+          "wind": {
+            "speed": 4.5
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 12:00:00",
+          "main": {
+            "temp": 41.2,
+            "humidity": 26
+          },
+          "wind": {
+            "speed": 5.8
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 15:00:00",
+          "main": {
+            "temp": 43.1,
+            "humidity": 22
+          },
+          "wind": {
+            "speed": 6.4
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 18:00:00",
+          "main": {
+            "temp": 38.9,
+            "humidity": 30
+          },
+          "wind": {
+            "speed": 5.2
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 21:00:00",
+          "main": {
+            "temp": 34.0,
+            "humidity": 38
+          },
+          "wind": {
+            "speed": 3.9
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 00:00:00",
+          "main": {
+            "temp": 30.8,
+            "humidity": 42
+          },
+          "wind": {
+            "speed": 3.1
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 03:00:00",
+          "main": {
+            "temp": 29.1,
+            "humidity": 45
+          },
+          "wind": {
+            "speed": 2.7
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 06:00:00",
+          "main": {
+            "temp": 32.5,
+            "humidity": 40
+          },
+          "wind": {
+            "speed": 3.4
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        }
+      ]
+    }
+  },
+  "Bengaluru": {
+    "current": {
+      "name": "Bengaluru",
+      "sys": {
+        "country": "IN"
+      },
+      "main": {
+        "temp": 25.3,
+        "feels_like": 25.8,
+        "humidity": 66,
+        "pressure": 1014
+      },
+      "wind": {
+        "speed": 4.8
+      },
+      "weather": [
+        {
+          "main": "Clouds",
+          "description": "broken clouds"
+        }
+      ],
+      "rain": {
+        "1h": 0.0
+      }
+    },
+    "forecast": {
+      "list": [
+        {
+          "dt_txt": "2026-11-25 09:00:00",
+          "main": {
+            "temp": 23.4,
+            "humidity": 70
+          },
+          "wind": {
+            "speed": 4.1
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "scattered clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 12:00:00",
+          "main": {
+            "temp": 26.8,
+            "humidity": 58
+          },
+          "wind": {
+            "speed": 4.9
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "few clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 15:00:00",
+          "main": {
+            "temp": 27.5,
+            "humidity": 55
+          },
+          "wind": {
+            "speed": 5.3
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "broken clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.5
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 18:00:00",
+          "main": {
+            "temp": 24.2,
+            "humidity": 68
+          },
+          "wind": {
+            "speed": 4.4
+          },
+          "weather": [
+            {
+              "main": "Rain",
+              "description": "light rain"
+            }
+          ],
+          "rain": {
+            "3h": 2.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-25 21:00:00",
+          "main": {
+            "temp": 21.8,
+            "humidity": 74
+          },
+          "wind": {
+            "speed": 3.5
+          },
+          "weather": [
+            {
+              "main": "Clouds",
+              "description": "scattered clouds"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 00:00:00",
+          "main": {
+            "temp": 20.1,
+            "humidity": 78
+          },
+          "wind": {
+            "speed": 3.0
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 03:00:00",
+          "main": {
+            "temp": 19.4,
+            "humidity": 76
+          },
+          "wind": {
+            "speed": 2.6
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        },
+        {
+          "dt_txt": "2026-11-26 06:00:00",
+          "main": {
+            "temp": 21.0,
+            "humidity": 75
+          },
+          "wind": {
+            "speed": 3.2
+          },
+          "weather": [
+            {
+              "main": "Clear",
+              "description": "clear sky"
+            }
+          ],
+          "rain": {
+            "3h": 0.0
+          }
+        }
+      ]
+    }
+  }
+}

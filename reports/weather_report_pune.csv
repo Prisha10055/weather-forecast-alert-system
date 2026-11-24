@@ -1,0 +1,9 @@
+timestamp,temperature_c,humidity_pct,wind_speed_ms,condition,description,rain_3h_mm
+2026-11-25 09:00:00,29.5,62,3.8,Clear,Clear Sky,0.0
+2026-11-25 12:00:00,33.2,50,4.5,Clouds,Few Clouds,0.0
+2026-11-25 15:00:00,34.8,46,5.1,Clouds,Scattered Clouds,0.0
+2026-11-25 18:00:00,30.1,65,4.0,Rain,Light Rain,2.4
+2026-11-25 21:00:00,26.4,76,3.2,Rain,Moderate Rain,6.2
+2026-11-26 00:00:00,24.0,82,2.9,Clouds,Overcast Clouds,1.1
+2026-11-26 03:00:00,22.8,84,2.5,Clear,Clear Sky,0.0
+2026-11-26 06:00:00,24.5,75,3.0,Clear,Clear Sky,0.0

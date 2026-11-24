@@ -1,0 +1,22 @@
+============================================================
+WEATHER FORECAST & ALERT REPORT — DELHI
+Generated At : 2026-11-24 21:25:25
+Data Source  : Virtual Simulation (Offline JSON)
+============================================================
+
+[CURRENT WEATHER]
+  Condition   : Clear (Clear Sky)
+  Temperature : 41.6°C (Feels like 44.2°C)
+  Humidity    : 28%
+  Wind Speed  : 6.1 m/s
+  Pressure    : 1003 hPa
+
+[FORECAST SUMMARY]
+  Min / Max Temp : 29.1°C / 43.1°C (Avg: 35.75°C)
+  Max Humidity   : 45%
+  Total Rainfall : 0.0 mm
+  Max Wind Speed : 6.4 m/s
+
+[ALERTS TRIGGERED]
+  1. [CRITICAL] HIGH_TEMPERATURE: High Temperature Alert: Peak temperature reaches 43.1°C (threshold: 38.0°C). Stay hydrated and avoid peak afternoon sun.
+============================================================

@@ -1,0 +1,22 @@
+============================================================
+WEATHER FORECAST & ALERT REPORT — BENGALURU
+Generated At : 2026-11-24 21:25:27
+Data Source  : Virtual Simulation (Offline JSON)
+============================================================
+
+[CURRENT WEATHER]
+  Condition   : Clouds (Broken Clouds)
+  Temperature : 25.3°C (Feels like 25.8°C)
+  Humidity    : 66%
+  Wind Speed  : 4.8 m/s
+  Pressure    : 1014 hPa
+
+[FORECAST SUMMARY]
+  Min / Max Temp : 19.4°C / 27.5°C (Avg: 23.03°C)
+  Max Humidity   : 78%
+  Total Rainfall : 2.5 mm
+  Max Wind Speed : 5.3 m/s
+
+[ALERTS TRIGGERED]
+  1. [NORMAL] ALL_CLEAR: No severe weather alerts triggered. Conditions are within normal thresholds.
+============================================================

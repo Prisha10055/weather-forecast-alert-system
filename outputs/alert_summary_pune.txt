@@ -1,0 +1,23 @@
+============================================================
+WEATHER FORECAST & ALERT REPORT — PUNE
+Generated At : 2026-11-25 03:19:00
+Data Source  : Virtual Simulation (Offline JSON)
+============================================================
+
+[CURRENT WEATHER]
+  Condition   : Clouds (Scattered Clouds)
+  Temperature : 31.4°C (Feels like 33.1°C)
+  Humidity    : 58%
+  Wind Speed  : 4.2 m/s
+  Pressure    : 1011 hPa
+
+[FORECAST SUMMARY]
+  Min / Max Temp : 22.8°C / 34.8°C (Avg: 28.16°C)
+  Max Humidity   : 84%
+  Total Rainfall : 9.7 mm
+  Max Wind Speed : 5.1 m/s
+
+[ALERTS TRIGGERED]
+  1. [WARNING] RAIN_ALERT: Rain Alert: Expected cumulative rainfall of 9.7 mm (peak 3h slot: 6.2 mm). Carry rain gear and plan travel accordingly.
+  2. [INFO] HIGH_HUMIDITY: High Humidity Alert: Humidity reaches 84% (threshold: 80%). Expect muggy conditions.
+============================================================

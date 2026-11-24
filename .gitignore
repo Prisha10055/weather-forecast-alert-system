@@ -1,0 +1,20 @@
+# Environment variables (NEVER commit real API keys!)
+.env
+*.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Optional local logs
+*.log
